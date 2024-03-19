@@ -7,7 +7,7 @@ Computer Science bachelor holder and software engineering student.
 *   🌍  I'm based in Tunis
 *   ✉️  You can contact me at [maissadridi1@gmail.com](mailto:maissadridi1@gmail.com)
 *   🚀  I'm currently working on [an intern application](http://-)
-*   🧠  I'm learning Node.js and React
+*   🧠  I'm learning whatever gets in my way
 *   🤝  I'm open to collaborating on anything
 *   ⚡  I love spicy food
 *   ### Skills
